@@ -81,5 +81,5 @@ year = {2020}
 ```
 
 ## License
-These notebooks are licensed under the [BSD 3-Clause License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
+These notebooks are licensed under the [MIT License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
 
