@@ -43,6 +43,12 @@ conda env create -f environment.yml
 conda activate seg-2020-uxo
 ```
 
+Alternatively, you can install the requirements using pypi:
+
+```
+pip install -r requirements.txt 
+```
+
 You can then launch Jupyter
 
 ```
