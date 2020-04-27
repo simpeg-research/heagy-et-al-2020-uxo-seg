@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+pytorch
+verde
+h5py
+urllib
